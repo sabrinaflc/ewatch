@@ -1,4 +1,4 @@
-Site is live at https://sabrinaflc.github.io/CLOCK/
+Site is live at https://sabrinaflc.github.io/ewatch/
 
 A beautiful and modern e-watch for you leaves a screen on standby.
 
