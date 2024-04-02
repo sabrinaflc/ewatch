@@ -1,3 +1,6 @@
+/* Copyright 2024 Sabrina Ferreira Lins Couto
+Licensed under the MIT License. */
+
     function Relogio(){
         var data = new Date();
         var hr = formatTime(data.getHours());
