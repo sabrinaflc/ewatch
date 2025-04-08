@@ -29,4 +29,4 @@ eWatch is a modern digital clock styled with a retro font and integrated with th
   
 ## 🪪 License
 - This project is licensed under the MIT License.
-- Made with 💚 by Sabrina Ferreira Lins Couto.
+- Made with 💚 by Sabrina Lins.
