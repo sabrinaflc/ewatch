@@ -1,5 +1,5 @@
 ## 🕒 eWatch — World Clock with Timezone Selector
-Created by Sabrina Ferreira Lins Couto
+Created by Sabrina Lins
 
 ## 📌 Description
 
