@@ -1,8 +1,32 @@
-Site is live at https://sabrinaflc.github.io/ewatch/
+## 🕒 eWatch — World Clock with Timezone Selector
+Created by Sabrina Ferreira Lins Couto
 
-A beautiful and modern e-watch for you leaves a screen on standby.
+## 📌 Description
 
-Copyright 2024 Sabrina Ferreira Lins Couto |
-Licensed under the MIT License.
+eWatch is a modern digital clock styled with a retro font and integrated with the TimeZoneDB API. It allows users to view the local time of multiple countries across different time zones around the world.
 
-Thank you for your interest in my code. If you have any questions or want to give me a tip, send me an email brina.lins@outlook.com
+## 🧠 Features
+
+- ⏰ Real-time digital clock
+- 📅 Current date display
+- 📍 Timezone detection using geolocation
+- 🌍 Country selector with flag emojis
+- 📡 TimeZoneDB API integration for accurate local time
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TimeZoneDB API
+- DS-Digital Font
+
+## 🧩 To-Do (Future Improvements)
+- Add support for city-level timezones
+- Dark/light theme toggle
+- Display country flag next to clock
+- Smooth transitions between timezones
+  
+## 🪪 License
+- This project is licensed under the MIT License.
+- Made with 💚 by Sabrina Ferreira Lins Couto.
